@@ -29,9 +29,9 @@
 ```
 -->
 
-## BDM 框架概览 (Overview of BDM Framework)
+## BLD 框架概览 (Overview of BLD Framework)
 
-BDM 框架的核心思想和主要组件如下图所示：
+BLD 框架的核心思想和主要组件如下图所示：
 
 ![image](https://github.com/user-attachments/assets/1344d26e-5bdd-491b-bcb9-48f397c347b2)
 
